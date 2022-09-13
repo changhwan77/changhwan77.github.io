@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "CREATE A CRACK"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Hwan의 개발 블로그입니다.
 name                     : "Chang Hwan"
 description              : "Learn & Apply"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hwan"
   avatar           : "/assets/images/jeju.jpg"
-  bio              : "The Joy Of Knowing What I don't know"
+  bio              : "<br/> Member of Hack:up-Busan <br/> The Joy Of Knowing What I don't know "
   location         : <br/>"Busan, South Korea"
   email            :
   links:
