@@ -1,6 +1,6 @@
 ---
 layout: single
-title: [Dart Deep Dive] Future, async, await 
+title: < Dart Deep Dive > Future, async, await 
 categories:
   - Dart
 tags:
