@@ -5,7 +5,7 @@ categories:
   - Dart
 tags:
   - [Flutter, Future]
-
+toc: true
 date: 2022-09-05
 ---
 
