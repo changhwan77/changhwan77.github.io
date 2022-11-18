@@ -1,6 +1,6 @@
 ---
 layout: single
-title: <위젯 공부 모음> 플러터 스터디
+title: 플러터 스터디 1
 categories:
   - Dart
 tags:
@@ -44,7 +44,7 @@ date: 2022-11-18
             - 이 때 인덱스 순으로 순환되기 때문에 밑의colorCodes[index] 처럼 코드 작성.
             - 의문점. 이 때 만약 데이터를 우리가 만드는 게 아니라 외부에서 받아오는 경우,,, ? 어떻게 로직을 짤 수 있을지 !
  
-<iframe src="https://dartpad.dev/embed-flutter.html?id=cf8749fdab5976cc2a11719b6e4615b6" style="width:100%; height:300px"></iframe>
+<iframe src="https://dartpad.dev/embed-flutter.html?id=cf8749fdab5976cc2a11719b6e4615b6" style="width:100%; height:500px"></iframe>
 
 [ListView.builder constructor - Dart API](https://api.flutter.dev/flutter/widgets/ListView/ListView.builder.html)
 
@@ -53,7 +53,7 @@ date: 2022-11-18
 - 제스처를 감지하는 위젯
     - 클릭, 더블 클릭, 긴 클릭, 드래그, 스와이프 등 다양하게 가능
 
-<iframe src="https://dartpad.dev/embed-flutter.html?id=d70d2487c6ab42cba8b3194205801786" style="width:100%; height:300px"></iframe>
+<iframe src="https://dartpad.dev/embed-flutter.html?id=d70d2487c6ab42cba8b3194205801786" style="width:100%; height:500px"></iframe>
 
 - onTap 함수 바디 안에 setState를 설정. 
     - 여기서 setState란 한 이 페이지의 코드 내에서 더럽혀진, 즉 상태가 바뀔 수 있는 값을 설정하고 내가 변경하고 싶은 대로 가능. 
