@@ -1,3 +1,4 @@
+---
 layout: single
 title: <위젯 공부 모음> 플러터 스터디
 categories:
@@ -5,7 +6,8 @@ categories:
 tags:
   - [Flutter]
 toc: true
-date: 2022-09-07
+date: 2022-11-18
+---
 
 ### AspectRatio class
 
@@ -53,4 +55,5 @@ date: 2022-09-07
 
 <iframe src="https://dartpad.dev/embed-flutter.html?id=d70d2487c6ab42cba8b3194205801786" style="width:100%; height:300px"></iframe>
 
-- onTap 함수 바디 안에 setState를 설정. 여기서 setState란 한 이 페이지의 코드 내에서 더럽혀진, 즉 상태가 바뀔 수 있는 값을 설정하고 내가 변경하고 싶은 대로 가능. 
+- onTap 함수 바디 안에 setState를 설정. 
+    - 여기서 setState란 한 이 페이지의 코드 내에서 더럽혀진, 즉 상태가 바뀔 수 있는 값을 설정하고 내가 변경하고 싶은 대로 가능. 
