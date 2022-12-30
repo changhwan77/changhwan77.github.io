@@ -215,6 +215,15 @@ return Consumer<CartModel>(
     - 즉 model 내 notifyListeners가 호출될 때, Consumer 위젯의 모든 builder 메서드가 호출됨.
 - 두번째 인수는 ChangeNotifier의 instance.
 
+### 프로젝트 플랫폼 '플젝윗미'
+
+![image](https://user-images.githubusercontent.com/110464205/210101800-8ac13617-09f6-4b41-9b07-2db70f4bd1bd.png)
+
+장언이에게 아직도 연락오는 창업에 관심있는 친구들,,, 그리고 나는 프로젝트를 해도 기획자, 디자이너와 협업해보고 싶은 마음이 커서 만든 플랫폼이당 
+
+기획, 디자이너, 개발자와 함께 프로젝트르르 진행해보고 싶다면 다음 링크루 ~ 
+
+https://ckdghks9741.oopy.io/ 
 
 ### 부족한 점
 
