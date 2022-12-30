@@ -39,7 +39,7 @@ ex) git checkout main →  git pull
     
 ![토스 팝업 메시지 실패](https://user-images.githubusercontent.com/110464205/210083378-e7eba7ef-d15b-4e00-9144-40523c35be8f.gif)
 
-### Flutter 공식문서 스터디
+# Flutter 공식문서 스터디
 
 ## Understanding constraints
 
@@ -59,9 +59,9 @@ ex) git checkout main →  git pull
 - 그런 다음 그 부모 위젯은 children들을 x, y축으로 배치함
 - 그러고 자식 위젯들이 부모 위젯들에게 자신의 size를 알려줌 (부모의 제약 조건 내에서)
 
-# **Examples**
+**Examples**
 
-### Example 9
+Example 9
 
 ![image](https://user-images.githubusercontent.com/110464205/210083940-2614406f-2e18-4363-b446-ca9a03a53689.png)
 
@@ -81,7 +81,7 @@ You might guess that the `Container` has to be between 70 and 150 pixels, but 
 
 Here, **the screen forces the `ConstrainedBox` to be exactly the same size as the screen**, so it tells its child `Container` to also assume the size of the screen, thus ignoring its `constraints` parameter.
 
-### Example 10
+Example 10
 
 ![image](https://user-images.githubusercontent.com/110464205/210083977-1b421050-96b1-4966-8594-1528fa4f038f.png)
 
@@ -111,7 +111,7 @@ Center(
 
 `OverflowBox` 는 스크린의 사이즈를 벗어나도 경고 표시 (노란색 줄) 안띄움
 
-### Example 16
+Example 16
 
 ![image](https://user-images.githubusercontent.com/110464205/210084062-85662002-e3a4-4cdc-82dd-f416ef965a52.png)
 
@@ -145,7 +145,7 @@ Flexible(1)와 `Expanded`(2) 위젯
     - 설정한 최대 높이와 너비가 있으면 자식 위젯은 그것보다 작게 사이징
 
 
-### Getters and setters (아직 덜 이해 됨)
+## Getters and setters (아직 덜 이해 됨)
 
 - 어떤 객체의 속성(프로퍼티)를 읽거나 쓸 수 있는 권한을 제공하는 methods.
 - `get` and `set` keywords 를 써서 추가적인 프로퍼티를 만들 수 있음.
@@ -166,9 +166,9 @@ main( ) {
 }
 ```
 
-### Simple app state management
+## Simple app state management
 
-## Provider
+### Provider
 
 3가지 개념 이해 
 
@@ -217,10 +217,10 @@ return Consumer<CartModel>(
 
 일급 객체 ? 
 
-### 부족한 점
+## 부족한 점
 
 - 아직 위젯 간 데이터 전달 로직에 약한 것 같다… ㅠ Keep Going !
 
 ![image](https://user-images.githubusercontent.com/110464205/210084833-e4057a7a-a6a3-4bb6-89a4-ce45a66a64cc.png)
 - 추가로 여기 앱바 관련 UI도 추가적인 공부가 필요 ! 
-[app_bar](https://user-images.githubusercontent.com/110464205/210084887-44189a2e-929e-4f35-ac15-504ab3c4aeaf.png)
+![app_bar](https://user-images.githubusercontent.com/110464205/210085623-203d7cc2-ae48-438d-ae16-528d2d3e314b.png)
