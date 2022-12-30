@@ -77,9 +77,9 @@ ConstrainedBox(
 )
 ```
 
-You might guess that the `Container` has to be between 70 and 150 pixels, but you would be wrong. The `ConstrainedBox` only imposes **additional** constraints from those it receives from its parent.
+`Container`가 70 ~ 150 픽셀이라고 추측했는데 틀림. `ConstrainedBox`위젯은 오직 부모 위젯으로 부터 받은 **추가적인** 제약조건만 부과함
 
-Here, **the screen forces the `ConstrainedBox` to be exactly the same size as the screen**, so it tells its child `Container` to also assume the size of the screen, thus ignoring its `constraints` parameter.
+여기에서 **화면은 `ConstrainedBox`가 화면과 정확히 같은 크기가 되도록 강제하므로**, 자식 위젯인 `Container`도 화면 전체 크기를 추측 하도록 지시하여 `constraints` 매개변수를 무시한다.
 
 - Example 10
 
@@ -99,7 +99,7 @@ Center(
 )
 ```
 
-`Center` 위젯이 `ConstrainedBox` 위젯에게 스크린 크기를 물어보고The `ConstrainedBox` 위젯이 child 위젯에게 제약 조건을 말해줌.
+`Center` 위젯이 `ConstrainedBox` 위젯에게 스크린 크기를 물어보고 `ConstrainedBox` 위젯이 child 위젯에게 제약 조건을 말해줌.
 
 이 때 Container는 반드시 최소 70, 최대 150 픽셀 사이어야 하는데 10픽셀을 가지고 있으므로 너비와 높이의 최소 값인 70으로 반영돼서 ui가 그려짐
 
@@ -131,10 +131,10 @@ UnconstrainedBox(
 
 - `Flexible(1)`와 `Expanded(2)` 위젯
 
-- 차이점
+  - 차이점
     - (1)은 자식 위젯이 자신(1)보다 작거나 같은 너비를 가지도록 함
     - (2)는 자식 위젯이 자신(2)의 너비와 정확히 같도록 함.
-- 공통점
+  - 공통점
     - 크기를 조정할 때 자식의 너비를 무시함.
 
 **Tight vs. loose constraints**
@@ -215,12 +215,10 @@ return Consumer<CartModel>(
     - 즉 model 내 notifyListeners가 호출될 때, Consumer 위젯의 모든 builder 메서드가 호출됨.
 - 두번째 인수는 ChangeNotifier의 instance.
 
-일급 객체 ? 
 
 ### 부족한 점
 
 - 아직 위젯 간 데이터 전달 로직에 약한 것 같다… ㅠ Keep Going !
-
-![image](https://user-images.githubusercontent.com/110464205/210084833-e4057a7a-a6a3-4bb6-89a4-ce45a66a64cc.png)
 - 추가로 여기 앱바 관련 UI도 추가적인 공부가 필요 ! 
+![image](https://user-images.githubusercontent.com/110464205/210084833-e4057a7a-a6a3-4bb6-89a4-ce45a66a64cc.png)
 ![app_bar](https://user-images.githubusercontent.com/110464205/210085623-203d7cc2-ae48-438d-ae16-528d2d3e314b.png)
