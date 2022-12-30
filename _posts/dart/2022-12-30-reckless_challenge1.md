@@ -35,7 +35,7 @@ ex) git checkout main →  git pull
 3. Provider를 사용해서 CardModel 클래스 생성해서 removeAll() method 생성해서 2번과 같은 방식으로 시도해봤지만 실패 ! 
 
 4. onDeleted 프로퍼티 사용 ⇒ 실패 !
-<iframe src="https://dartpad.dev/embed-flutter.html?id=024241190c4bbb3120021542d225f220" style="width:120%; height:400px"></iframe>
+<iframe src="https://dartpad.dev/embed-flutter.html?id=024241190c4bbb3120021542d225f220" style="width:100%; height:300px"></iframe>
     
 ![토스 팝업 메시지 실패](https://user-images.githubusercontent.com/110464205/210083378-e7eba7ef-d15b-4e00-9144-40523c35be8f.gif)
 
@@ -223,7 +223,7 @@ return Consumer<CartModel>(
 
 기획, 디자이너, 개발자와 함께 프로젝트르르 진행해보고 싶다면 다음 링크루 ~ 
 
-https://ckdghks9741.oopy.io/ 
+[플젝윗미](https://ckdghks9741.oopy.io/)
 
 ### 부족한 점
 
