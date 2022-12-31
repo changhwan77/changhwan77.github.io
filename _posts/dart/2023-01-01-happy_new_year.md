@@ -6,7 +6,7 @@ categories:
 tags:
   - [Flutter]
 toc: true
-date: 2022-12-30
+date: 2023-01-01
 ---
 
 ### 적응형(adaptive)와 반응형(responsive) 앱의 차이점
