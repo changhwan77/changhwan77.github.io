@@ -23,36 +23,14 @@ date: 2022-12-31
 
 플러터는 반응형 디자인을 적용한 앱을 만드는데 2가지의 기본적인 접근법을 사용함. 
 
-1. **Use the `[LayoutBuilder](https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html)` class**
-2. **Use the `[MediaQuery.of()](https://api.flutter.dev/flutter/widgets/MediaQuery/of.html)` method in your build functions**
+1. **Use the `LayoutBuilder` class**
+2. **Use the `MediaQuery.of()` method in your build functions**
+
 
 # 적응형(adaptive) 앱 만드는 법
-
 ## 폼 팩터와 스크린 크기 고려
 
 ![폼팩터](https://user-images.githubusercontent.com/110464205/210145657-51d231ce-a85b-437e-aa7f-e20ce4558bf5.jpg)
-
-
-### 레이아웃 위젯들
-
-- **Single child**
-    - **Align**
-    - **AspectRatio**
-    - **ConstrainedBox**
-    - **CustomSingleChildLayout**
-    - **Expanded and Flexible**
-    - **FractionallySizedBox**
-    - **LayoutBuilder**
-    - **SingleChildScrollView**
-    
-- **Multichild**
-    - Column, Row and Flex
-    - CustomMultiChildLayout
-    - Flow
-    - ListView, GridView and CustomScrollView
-    - Stack
-    - Table
-    - Wrap
 
 ### 시각적 밀도 (Visual density)
 
