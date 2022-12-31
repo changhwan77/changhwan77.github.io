@@ -70,7 +70,7 @@ date: 2022-12-31
 
     - 데스크탑, 태블릿, 등 스크린 크기의 기준을 임의로 설정해서 기준을 벗어날 시 위젯들을 수평 또는 수직으로 변환하도록 함.
 
-<iframe src="https://dartpad.dev/embed-flutter.html?id=337bec81c0b31f91706b14749cd1d6d9" style="width:120%; height:300px"></iframe>
+<iframe src="https://dartpad.dev/embed-flutter.html?id=337bec81c0b31f91706b14749cd1d6d9" style="width:100%; height:500px"></iframe>
     
 - **Use LayoutBuilder for extra flexibility**
 
@@ -178,8 +178,6 @@ return Padding(
 
 관련 위젯으로는 button 이랑 textfield 위젯 
 
-### **Controlling traversal order**
-
 ### **Keyboard accelerators**
 
 사용자들은 다음과 같은 키보드 단축키 (shortcuts)을 원함 ! 
@@ -205,15 +203,15 @@ return Padding(
 
 ### Selectable text
 
-<iframe src="https://dartpad.dev/embed-flutter.html?id=51c86c4f7c01be7ada883f9a4bb8e615" style="width:120%; height:300px"></iframe>
+<iframe src="https://dartpad.dev/embed-flutter.html?id=51c86c4f7c01be7ada883f9a4bb8e615" style="width:120%; height:500px"></iframe>
 
 ### ToolTip
 
-<iframe src="https://dartpad.dev/embed-flutter.html?id=61a5ad666a2ddae14c0b1b70a619414c" style="width:120%; height:300px"></iframe>
+<iframe src="https://dartpad.dev/embed-flutter.html?id=61a5ad666a2ddae14c0b1b70a619414c" style="width:120%; height:500px"></iframe>
   
 ### Horizontal button order
 
-<iframe src="https://dartpad.dev/embed-flutter.html?id=7b7582020a4aa72b81eba4b4f2c41597" style="width:120%; height:300px"></iframe>
+<iframe src="https://dartpad.dev/embed-flutter.html?id=7b7582020a4aa72b81eba4b4f2c41597" style="width:120%; height:500px"></iframe>
 
 ## React 를 시작하다
 
