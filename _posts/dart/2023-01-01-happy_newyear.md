@@ -56,6 +56,8 @@ date: 2023-01-01
 
 ### 시각적 밀도 (Visual density)
 
+![Building adaptive apps _ Flutter - Chrome 2022-12-31 15-35-43](https://user-images.githubusercontent.com/110464205/210149322-a217f2d2-96f2-4da7-bcf5-028370d5d43a.gif)
+
 사용자가 원함에 따라 전체 어플리케이션의 밀도를 조정할 수 있음. ex) 버튼을 더 크게 만드는 등 
 
 ### 화면 크기에 따라 레이아웃 크기 설정 (Contextual layout)
@@ -63,6 +65,7 @@ date: 2023-01-01
 - **Screen-based breakpoints**
 
 ![화면 크기에 따라 수평_수직으로 달라지는 위젯](https://user-images.githubusercontent.com/110464205/210146331-c933c2cb-623e-465d-8e88-107afc42282f.png)
+
 ![달라지는 위젯 2](https://user-images.githubusercontent.com/110464205/210146371-4bb91fac-665e-418b-907d-08996042fd04.png)
 
     - 데스크탑, 태블릿, 등 스크린 크기의 기준을 임의로 설정해서 기준을 벗어날 시 위젯들을 수평 또는 수직으로 변환하도록 함.
