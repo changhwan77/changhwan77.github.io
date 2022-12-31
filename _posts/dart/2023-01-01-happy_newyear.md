@@ -56,8 +56,6 @@ date: 2023-01-01
 
 ### 시각적 밀도 (Visual density)
 
-https://user-images.githubusercontent.com/110464205/210146020-5401b773-9468-4257-8315-118f81812ca8.mp4
-
 사용자가 원함에 따라 전체 어플리케이션의 밀도를 조정할 수 있음. ex) 버튼을 더 크게 만드는 등 
 
 ### 화면 크기에 따라 레이아웃 크기 설정 (Contextual layout)
