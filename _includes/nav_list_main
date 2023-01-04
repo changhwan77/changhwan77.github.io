@@ -23,18 +23,18 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Data_Structure/Algorithm</span>
+        <span class="nav__sub-title">기획/MetaFrontEnd</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/algorithm" class="">알고리즘 구현({{category[1].size}})</a></li>
+                    {% if category[0] == "기획" %}
+                        <li><a href="/categories/algorithm" class="">기획스터디({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "DataStructure" %}
-                        <li><a href="/categories/datastructure" class="">자료구조({{category[1].size}})</a></li>
+                    {% if category[0] == "META" %}
+                        <li><a href="/categories/datastructure" class="">MetaFrontEndDeveloper({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
