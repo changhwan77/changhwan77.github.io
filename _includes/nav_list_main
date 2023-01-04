@@ -34,7 +34,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "META" %}
-                        <li><a href="/categories/datastructure" class="">MetaFrontEndDeveloper({{category[1].size}})</a></li>
+                        <li><a href="/categories/datastructure" class="">Meta Front-End Developer Certificate({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
