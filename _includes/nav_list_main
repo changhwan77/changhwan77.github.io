@@ -23,11 +23,11 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">기획/MetaFrontEnd</span>
+        <span class="nav__sub-title">회고 / Web Front</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "기획" %}
-                        <li><a href="/categories/algorithm" class="">기획스터디({{category[1].size}})</a></li>
+                    {% if category[0] == "RESTROPECT" %}
+                        <li><a href="/categories/algorithm" class="">성장일기({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
