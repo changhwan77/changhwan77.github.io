@@ -2,9 +2,9 @@
 layout: single
 title: 플러터 상태관리 파헤쳐보기 
 categories:
-  - Dart
+  - Flutter
 tags:
-  - [Flutter, StateMangement]
+  - [StateMangement]
 toc: true
 date: 2023-01-17
 ---
