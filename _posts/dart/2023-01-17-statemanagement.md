@@ -6,7 +6,7 @@ categories:
 tags:
   - [StateMangement]
 toc: true
-date: 2023-01-17
+date: 2023-01-16
 ---
 
 ## declarative UI programming (선언형 UI 프로그래밍)
