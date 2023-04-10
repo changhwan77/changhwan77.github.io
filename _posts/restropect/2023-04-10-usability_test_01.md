@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ChatGpt 유저 사용성 테스트 준비하는 법(설문지 편)
+title: 유저 사용성 테스트 준비하는 법(설문지 편)
 categories:
   - RESTROPECT
 tags:
