@@ -1,1 +1,1 @@
-## 세상에 가치를 더하는 Product Designer의 블로그입니다.
+## 세상에 가치를 더하는 Product Engineer의 블로그입니다.
