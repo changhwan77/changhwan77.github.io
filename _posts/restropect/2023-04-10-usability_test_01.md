@@ -9,7 +9,7 @@ toc: true
 date: 2023-04-10
 ---
 
-안녕하세요 세상을 바꾸는 Product Designer, Steve입니다. 
+안녕하세요 세상을 바꾸는 Product Engineer, Steve입니다. 
 
 소프트웨어를 만들려고 하는데, 실제 유저들이 우리가 만든걸 얼마해서 만족하면서 사용할까? 라고 생각하신 적이 있나요? 
 
