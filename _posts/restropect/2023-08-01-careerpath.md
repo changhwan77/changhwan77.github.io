@@ -1,6 +1,3 @@
-![7](https://github.com/changhwan77/changhwan77.github.io/assets/110464205/4aa49a40-1190-47b2-943b-67f930ea2122)
-![6](https://github.com/changhwan77/changhwan77.github.io/assets/110464205/7b7fb191-6edd-4f00-837e-0413e34034a8)
-![5](https://github.com/changhwan77/changhwan77.github.io/assets/110464205/ca258b6a-70af-4051-ae00-2b3826c01eac)
 ---
 layout: single
 title: 내가 커리어를 정한 방법 공유
