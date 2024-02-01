@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 2024-01-31 TIL (플러터 텍스트 인풋 및 키보드 사용성 향상)
 toc: true
 date: 2024-01-31
