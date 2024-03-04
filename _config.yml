@@ -279,14 +279,6 @@ compress_html:
   ignore:
     envs: development
 
-categories:
-  - TIL
-  - Dart
-  - Flutter
-  - 회고
-  - Book
-  - 스타트업
-
 # Defaults
 defaults:
   # _posts
