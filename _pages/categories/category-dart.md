@@ -1,5 +1,5 @@
 ---
-title: "Dart 핵심 문법"
+title: "Dart"
 layout: archive
 permalink: categories/dart
 author_profile: true
