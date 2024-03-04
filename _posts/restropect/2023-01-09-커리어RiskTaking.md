@@ -2,7 +2,7 @@
 layout: single
 title: 더 젊은 나이에, 더 높은 대우를 받기 위한 방법이라 ... 
 categories:
-  - RESTROPECT
+  - Restropect
 tags:
   - [성장일기]
 toc: true
