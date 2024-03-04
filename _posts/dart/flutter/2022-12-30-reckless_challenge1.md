@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 무모한 도전 2일차 ㅋ
+title: (Flutter) Constarint와 상태관리 이해하기
 categories:
-  - Dart
+  - Flutter
 tags:
   - [Flutter]
 toc: true
