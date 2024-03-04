@@ -2,7 +2,7 @@
 layout: single
 title: 내가 커리어를 정한 방법 공유
 categories:
-  - RESTROPECT
+  - Restropect
 tags:
   - [진로선택]
 toc: true
