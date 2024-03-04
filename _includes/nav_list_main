@@ -8,33 +8,42 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
-        <span class="nav__sub-title">Flutter/Dart</span>
+        <span class="nav__sub-title">Dart/Flutter</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Dart" %}
-                        <li><a href="/categories/dart" class="">Dart core({{category[1].size}})</a></li>
+                        <li><a href="/categories/dart" class="">Dart({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Flutter" %}
-                        <li><a href="/categories/flutter" class="">Flutter FrameWork({{category[1].size}})</a></li>
+                        <li><a href="/categories/flutter" class="">Flutter({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">회고 / Web Front</span>
+        <span class="nav__sub-title">회고</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "RESTROPECT" %}
-                        <li><a href="/categories/algorithm" class="">성장일기({{category[1].size}})</a></li>
+                    {% if category[0] == "Restropect" %}
+                        <li><a href="/categories/restropect" class="">회고록({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">독서</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "META" %}
-                        <li><a href="/categories/datastructure" class="">Meta Front-End Developer Certificate({{category[1].size}})</a></li>
+                    {% if category[0] == "Book" %}
+                        <li><a href="/categories/book" class="">책 후기({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">스타트업</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Startup" %}
+                        <li><a href="/categories/startup" class="">Startup({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
