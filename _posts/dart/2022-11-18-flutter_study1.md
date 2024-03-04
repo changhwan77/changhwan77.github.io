@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 플러터 스터디 1
+title: (Flutter) AspectRatio와 ListView.builder 배우기
 categories:
-  - Dart
+  - Flutter
 tags:
   - [Flutter]
 toc: true
