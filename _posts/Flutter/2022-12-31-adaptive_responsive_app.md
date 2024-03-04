@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 햎피 뉴이어 
+title: (Flutter) 적응형, 반응형 공식문서 스터디
 categories:
-  - Dart
+  - Flutter
 tags:
   - [Flutter]
 toc: true
