@@ -66,6 +66,7 @@ class Car extends Vehicle{
   int passsengrs =4;
   }
 }
+```
 
 ### interface와 추상 클래스의 차이점
 
