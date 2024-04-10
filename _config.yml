@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Better than the Most"
 title_separator          : "-"
-subtitle                 : Never Ending Tenicity
+subtitle                 : Making the Future based on Essential thing.
 name                     : "Chang Hwan"
 description              : "Learn & Apply"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hwan"
   avatar           : "/assets/images/profile.jpeg"
-  bio              : "__실생활 문제 해결을 극도로 좋아하는 Software Engineer입니다.__"
+  bio              : "__실패를 두려워하지 않고 끊임없이 도전하며 본질을 추구합니다.__"
   location         : <br/>"Seoul, South Korea"
   email            :
   links:
