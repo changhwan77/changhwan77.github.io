@@ -4,7 +4,7 @@ title: (비전공자 CS 공부) 컴퓨터과학과 실습 1편
 toc: true
 date: 2024-03-24
 categories:
-  - Flutter
+  - IntroCS
 tag: [CS, Digital-Logic-Gate]
 ---
 
