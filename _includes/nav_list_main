@@ -58,14 +58,14 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "IntroCS" %}
-                        <li><a href="/categories/startup" class="">컴퓨터과학과 실습({{category[1].size}})</a></li>
+                        <li><a href="/categories/intro-cs" class="">컴퓨터과학과 실습({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "CS50" %}
-                        <li><a href="/categories/startup" class="">Introduction to CS({{category[1].size}})</a></li>
+                        <li><a href="/categories/cs50" class="">CS50({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
