@@ -1,6 +1,6 @@
 ---
 layout: single
-title: (CS50) - 배열
+title: (CS50) - 배열 크기 늘리기 구현 시 겪은 이슈 정리
 toc: true
 date: 2024-04-21
 categories:
